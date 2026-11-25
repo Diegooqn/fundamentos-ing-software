@@ -29,3 +29,9 @@ Que haria distinto:
 # Ejercicio - repaso-contains-duplicate.py
 
 Ejercicio realizado para retomar, no recorde muy bien como era el set, asi que revise como lo habia hecho anteriormente.
+Tiempo: ~20 min
+
+# Ejercicio - primerRepetido.py
+
+Tiempo: 15 min aprox
+No sabia como comparar un numero con el otro, ahi recorde lo del set que guarda los anteriores y in compara con todos de una vez, en esta ocasion si fue sin mirar la solucion
