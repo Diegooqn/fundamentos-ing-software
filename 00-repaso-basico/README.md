@@ -25,3 +25,7 @@ Que haria distinto:
 - No declarar la variable dentro del loop por que que en cada vuelta su valor cambia
 - No pensar en agregar un return, por que este solo aplica cuando se usa una funcion.
 - Tener presente como funciona la comparacion en el for, y como funciona el range con sus tres datos, inicio, fin, paso. Siendo "fin" el mas importante.
+
+# Ejercicio - repaso-contains-duplicate.py
+
+Ejercicio realizado para retomar, no recorde muy bien como era el set, asi que revise como lo habia hecho anteriormente.
