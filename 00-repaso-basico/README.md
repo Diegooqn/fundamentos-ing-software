@@ -35,3 +35,8 @@ Tiempo: ~20 min
 
 Tiempo: 15 min aprox
 No sabia como comparar un numero con el otro, ahi recorde lo del set que guarda los anteriores y in compara con todos de una vez, en esta ocasion si fue sin mirar la solucion
+
+# Ejercicio - primerRepetido2.py segundo intento
+
+Tiempo: 5 min aprox
+Esta vez lo realice sin mirar. Al inicio no me dio por que estaba devolviendo el set en lugar del numero, esto por el mal nombre la variable
